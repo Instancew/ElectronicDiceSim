@@ -7,6 +7,7 @@ The hardware side of the project included:
 - Arduino Uno R3 board
 - Piezo Buzzer
 - Jumper Cables
+- Button for input and Resistors for Pulling up the Input
 - Data Cable for Data Transmission and Power Source
 
 There were plans to add a power source but could not due to time constraints. Will update the circuit diagram respectively, once updated.
