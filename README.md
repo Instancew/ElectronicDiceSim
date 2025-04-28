@@ -12,6 +12,8 @@ The hardware side of the project included:
 There were plans to add a power source but could not due to time constraints. Will update the circuit diagram respectively, once updated.
 
 The code was written using C++ in Arduino IDE. It uses the random() function and generated a number between 1 to 6, and generated a unique dot pattern respectively,
-to mimic the face of the die. The code can be easily modified to make a d2, d4, d32 respectively,
+to mimic the face of the die. The code can be easily modified to make a d2, d4, d32 and so on.
+
+It shows a standby page which waits for User Input. Once the button is pressed, a loading animation is added for the aesthetics, as the board does not struggle with generating a random number.
 
 This was my first experience with an Electronic project, and I believe the results were fruitful.
